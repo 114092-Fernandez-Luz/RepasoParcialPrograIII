@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\unidad3 APISS\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj": {}
+    "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\Repaso parcial\\RepasoParcialPrograIII\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\unidad3 APISS\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj": {
+    "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\Repaso parcial\\RepasoParcialPrograIII\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\unidad3 APISS\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj",
+        "projectUniqueName": "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\Repaso parcial\\RepasoParcialPrograIII\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj",
         "projectName": "EjemDBFirst",
-        "projectPath": "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\unidad3 APISS\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj",
+        "projectPath": "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\Repaso parcial\\RepasoParcialPrograIII\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\EjemDBFirst.csproj",
         "packagesPath": "C:\\Users\\Admins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\unidad3 APISS\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\obj\\",
+        "outputPath": "C:\\Users\\Admins\\Documents\\TUP_UTN\\3er Semestre\\Programación III\\Repaso parcial\\RepasoParcialPrograIII\\EjemploDBFirst\\EjemDBFirst\\EjemDBFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admins\\AppData\\Roaming\\NuGet\\NuGet.Config",
